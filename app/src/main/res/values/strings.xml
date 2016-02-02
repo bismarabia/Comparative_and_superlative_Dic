@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Comp &amp; sup</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="adj">
+        <item>Angry</item>
+        <item>Bad</item>
+        <item>big</item>
+        <item>bitter</item>
+        <item>black</item>
+        <item>bland</item>
+        <item>bloody</item>
+        <item>blue</item>
+        <item>bold</item>
+        <item>bossy</item>
+        <item>brave</item>
+        <item>brief</item>
+        <item>bright</item>
+        <item>broad</item>
+        <item>busy</item>
+        <item>calm</item>
+        <item>cheap</item>
+        <item>chewy</item>
+        <item>chubby</item>
+        <item>classy</item>
+        <item>clean</item>
+        <item>clear</item>
+        <item>clever</item>
+        <item>close</item>
+    </string-array>
+
+    <string-array name="comp">
+        <item>Angrier</item>
+        <item>Worse</item>
+        <item>bigger</item>
+        <item>bitterer</item>
+        <item>blacker</item>
+        <item>blander</item>
+        <item>bloodier</item>
+        <item>bluer</item>
+        <item>bolder</item>
+        <item>bossier</item>
+        <item>braver</item>
+        <item>briefer</item>
+        <item>brighter</item>
+        <item>broader</item>
+        <item>busier</item>
+        <item>calmer</item>
+        <item>cheaper</item>
+        <item>chewier</item>
+        <item>chubbier</item>
+        <item>classier</item>
+        <item>cleaner</item>
+        <item>clearer</item>
+        <item>cleverer</item>
+        <item>closer</item>
+    </string-array>
+
+    <string-array name="sup">
+        <item>Angriest</item>
+        <item>Worst</item>
+        <item>biggest</item>
+        <item>bitterest</item>
+        <item>blackest</item>
+        <item>blandest</item>
+        <item>bloodiest</item>
+        <item>bluest</item>
+        <item>boldest</item>
+        <item>bossiest</item>
+        <item>bravest</item>
+        <item>briefest</item>
+        <item>brightest</item>
+        <item>broadest</item>
+        <item>busiest</item>
+        <item>calmest</item>
+        <item>cheapest</item>
+        <item>chewiest</item>
+        <item>chubbiest</item>
+        <item>classiest</item>
+        <item>cleanest</item>
+        <item>clearest</item>
+        <item>cleverest</item>
+        <item>closest</item>
+    </string-array>
+
+    <string-array name="exp">
+        <item>Having strong feelings about something that you dislike very much or about an unfair situation.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Large in size, degree, amount, etc.</item>
+        <item>Very serious and unpleasant, with a lot of anger and hatred involved a long and bitter dispute.</item>
+        <item>Having the very darkest colour, like coal or the sky at night.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+        <item>Unpleasant; full of problems.</item>
+    </string-array>
+</resources>
